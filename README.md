@@ -1,1 +1,1 @@
-u2f stm
+Universal 2nd factor authentication for STM32
